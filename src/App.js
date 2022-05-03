@@ -19,7 +19,7 @@ function App() {
         </a>{" "}
         <span className="coded-by">by Dvorit Karpf-Cogan and </span>
         <a
-          href="https://delicate-puppy-9ff165.netlify.app"
+          href="https://rad-mousse-447c92.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="netlify-link"
