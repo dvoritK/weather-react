@@ -1,0 +1,35 @@
+import "./App.css";
+import Weather from "./Weather";
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <Weather />
+      </header>
+      <footer>
+        {" "}
+        <a
+          href="https://github.com/dvoritK/weather-react.git"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="github-link"
+        >
+          open-source code
+        </a>{" "}
+        <span className="coded-by">by Dvorit Karpf-Cogan and </span>
+        <a
+          href="https://delicate-puppy-9ff165.netlify.app"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="netlify-link"
+        >
+          {" "}
+          hosted on Netlify
+        </a>
+      </footer>
+    </div>
+  );
+}
+
+export default App;
