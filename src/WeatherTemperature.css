@@ -7,9 +7,14 @@
   opacity: 0.9;
   color: black;
 }
+.currentTemperature {
+  position: relative;
+  left: -90px;
+  top: 5px;
+}
 .unit {
   position: relative;
-  left: -95px;
+  left: -85px;
   top: -7px;
   color: black;
   font-size: small;
