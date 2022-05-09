@@ -8,7 +8,6 @@ function App() {
         <Weather defaultCity="Tel Aviv" />
       </header>
       <footer>
-        {" "}
         <a
           href="https://github.com/dvoritK/weather-react.git"
           target="_blank"
