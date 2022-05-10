@@ -6,6 +6,9 @@ body {
   font-weight: 600;
   background: rgb(174, 204, 202);
 }
+footer {
+  margin-bottom: 20px;
+}
 .github-link,
 .netlify-link {
   color: rgb(31, 138, 129);
